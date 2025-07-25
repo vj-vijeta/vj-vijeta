@@ -386,7 +386,7 @@ console.log(developer.getRandomWelcomeMessage());
 <br><sub><b>🚀 Latest Creation</b></sub>
 </td>
 <td align="center" width="33%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vj-vijeta&repo=experimental-repo&theme=react&hide_border=true" alt="Experimental" />
+<img src="https://github.com/vj-vijeta/Git-profile-generator" alt="Experimental" />
 <br><sub><b>🧪 Experimental Lab</b></sub>
 </td>
 </tr>
