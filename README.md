@@ -310,20 +310,175 @@ But seriously, I'm just a human who talks to computers for a living and somehow 
 
 ---
 
-<!-- 
-████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗    ███████╗ ██████╗ ██████╗ 
-╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝    ██╔════╝██╔═══██╗██╔══██╗
-   ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗    █████╗  ██║   ██║██████╔╝
-   ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║    ██╔══╝  ██║   ██║██╔══██╗
-   ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║    ██║     ╚██████╔╝██║  ██║
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝    ╚═╝      ╚═════╝ ╚═╝  ╚═╝
-                                                                                  
-██████╗ ███████╗ █████╗ ██████╗ ██╗███╗   ██╗ ██████╗                          
-██╔══██╗██╔════╝██╔══██╗██╔══██╗██║████╗  ██║██╔════╝                          
-██████╔╝█████╗  ███████║██║  ██║██║██╔██╗ ██║██║  ███╗                         
-██╔══██╗██╔══╝  ██╔══██║██║  ██║██║██║╚██╗██║██║   ██║                         
-██║  ██║███████╗██║  ██║██████╔╝██║██║ ╚████║╚██████╔╝                         
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝                          
--->
+## 🎮 Interactive Code Showcase
 
-<sub>🎪 Crafted with ☕, debugged with 🍕, and deployed with 🤞</sub>
+<div align="center">
+
+### 🌟 **Live Coding Animation**
+
+```diff
++ class WelcomeVisitor {
++     constructor(visitor) {
++         this.visitor = visitor;
++         this.impression = "building...";
++     }
++ 
++     generateWelcome() {
++         const messages = [
++             "Thanks for stopping by! 🚀",
++             "Hope you found something interesting! 💡", 
++             "Let's build something amazing together! 🌟",
++             "May your code compile on the first try! 🤞"
++         ];
++         return messages[Math.floor(Math.random() * messages.length)];
++     }
++ }
++ 
++ const you = new WelcomeVisitor("awesome_developer");
++ console.log(you.generateWelcome());
+```
+
+</div>
+
+---
+
+## 🎯 Repository Highlights
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vj-vijeta&repo=your-best-repo&theme=react&hide_border=true" alt="Featured Repo" />
+<br><sub><b>🌟 Most Starred Project</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vj-vijeta&repo=latest-project&theme=react&hide_border=true" alt="Latest Project" />
+<br><sub><b>🚀 Latest Creation</b></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vj-vijeta&repo=experimental-repo&theme=react&hide_border=true" alt="Experimental" />
+<br><sub><b>🧪 Experimental Lab</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎨 Dynamic Skills Radar
+
+<div align="center">
+
+```mermaid
+radar
+    title Skills Radar Chart
+    "Frontend Development" : 0.85
+    "Backend Architecture" : 0.75
+    "UI/UX Design" : 0.80
+    "DevOps & Cloud" : 0.70
+    "AI/ML Engineering" : 0.65
+    "Mobile Development" : 0.75
+    "Database Design" : 0.70
+    "Problem Solving" : 0.90
+```
+
+</div>
+
+---
+
+## 🏃‍♀️ Coding Journey Timeline
+
+<div align="center">
+
+```mermaid
+timeline
+    title My Coding Evolution
+    section 🌱 Beginner
+        2020 : HTML & CSS Magic
+             : First "Hello World" moment
+    section 🚀 Growth
+        2021 : JavaScript Adventures
+             : React Components Mastery
+        2022 : Backend Explorations
+             : Database Relationships
+    section 💪 Advanced
+        2023 : Full-Stack Projects
+             : UI/UX Design Integration
+        2024 : AI & Prompt Engineering
+             : IoT Smart Solutions
+    section 🎯 Future
+        2025 : Open Source Contributions
+             : Technical Leadership
+             : Innovation & Mentoring
+```
+
+</div>
+
+---
+
+## 🎲 Random Developer Facts Generator
+
+<div align="center">
+
+<details>
+<summary>🎰 <b>Click to Generate a Random Fact About Me!</b></summary>
+
+```javascript
+const developerFacts = [
+    "🐛 I once fixed a bug by changing a variable name from 'data' to 'information'",
+    "☕ My coffee-to-code ratio is scientifically optimized at 1:15 (cups:commits)",
+    "🌙 My most productive coding happens when normal people are sleeping",
+    "🎨 I have strong opinions about whether buttons should have rounded corners",
+    "🔍 I can debug CSS for hours but somehow miss obvious syntax errors",
+    "📱 I build mobile apps that I use to control my IoT coffee maker",
+    "🤖 I taught an AI to generate dad jokes. It's my proudest achievement.",
+    "🎯 My GitHub green squares are more consistent than my sleep schedule",
+    "💡 I have 73 'quick' side projects that are definitely not quick",
+    "🌐 I optimize my code more than I optimize my life choices"
+];
+
+function getRandomFact() {
+    return developerFacts[Math.floor(Math.random() * developerFacts.length)];
+}
+
+// Click the summary above to 'execute' this function! 🎪
+```
+
+</details>
+
+</div>
+
+---
+
+## 🌟 Thank You For Visiting!
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Let's%20Code%20Together!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+
+### 🚀 **Ready to collaborate? Let's build something amazing!** 
+
+**⭐ If you found my profile interesting, a star would make my day!**
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Coffee%20Consumed-∞-brown?style=for-the-badge&logo=coffee&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Bugs%20Fixed-9999+-green?style=for-the-badge&logo=bug&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Dreams%20Coded-∞-purple?style=for-the-badge&logo=heart&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+![Profile Views](https://komarev.com/ghpvc/?username=vj-vijeta&style=for-the-badge&color=brightgreen&label=Fellow+Developers)
+![Followers](https://img.shields.io/github/followers/vj-vijeta?style=for-the-badge&color=blue&labelColor=000000&label=Code+Companions)
+
+*💫 Remember: Great code isn't just written, it's crafted with passion, debugged with patience, and shared with love!*
+
+</div>
