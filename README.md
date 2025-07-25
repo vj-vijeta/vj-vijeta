@@ -237,6 +237,398 @@ class Developer {
 </div>
 
 ---
+## 🎮 Choose Your Adventure
+
+<div align="center">
+
+### 🗺️ **Navigate My Digital World**
+
+<table>
+<tr>
+<td align="" width="25%">
+
+**🎨 DESIGN MODE**
+```bash
+$ cd /creativity
+$ ls -la
+```
+[![Design Portfolio](https://img.shields.io/badge/🎨_View_Designs-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)](https://behance.net/vijeta1)
+
+*Explore UI/UX magic*
+
+</td>
+<td align="" width="25%">
+
+**💻 CODE MODE**
+```bash
+$ git log --oneline
+$ npm run awesome
+```
+[![GitHub Profile](https://img.shields.io/badge/👾_Browse_Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vj-vijeta)
+
+*Dive into repositories*
+
+</td>
+<td align="" width="25%">
+
+**🤝 CONNECT MODE**
+```bash
+$ ping professional.network
+$ wget linkedin/vijeta
+```
+[![LinkedIn](https://img.shields.io/badge/🌐_Let's_Connect-45B7D1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vijeta-vj)
+
+*Network & collaborate*
+
+</td>
+<td align="" width="25%">
+
+**📺 WATCH MODE**
+```bash
+$ streaming live
+$ subscribe --bell
+```
+[![YouTube](https://img.shields.io/badge/🎬_Watch_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@vijeta9278)
+
+*Tutorials & insights*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 Achievement System
+
+<div align="center">
+
+### 🎯 **Developer Achievements Unlocked**
+
+<table>
+<tr>
+<td align="center">
+
+🏅 **COFFEE MASTER**
+```
+☕☕☕☕☕
+Level 99 Unlocked
+```
+*Can code on pure caffeine*
+
+</td>
+<td align="center">
+
+🛡️ **BUG HUNTER**
+```
+🐛❌ → ✅
+Quest Complete
+```
+*Squashed 999+ bugs*
+
+</td>
+<td align="center">
+
+⚡ **SPEED CODER**
+```
+>>> typing_speed
+Non-Exisiting
+```
+*Keyboards fear me *
+
+</td>
+<td align="center">
+
+🌙 **NIGHT OWL**
+```
+01:00 → 04:00
+Peak Hours Unlocked
+```
+*When the world sleeps, I code*
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+🎨 **PIXEL PERFECTIONIST**
+```
+CSS Alignment: 100%
+Designer's Choice
+```
+*Every pixel has purpose*
+
+</td>
+<td align="center">
+
+🤖 **AI WHISPERER**
+```
+[AI]: "How can I help?"
+[ME]: "Make magic happen"
+```
+*Fluent in prompt engineering*
+
+</td>
+<td align="center">
+
+📚 **STACK OVERFLOW LEGEND**
+```
+Reputation: ∞
+Helping devs since 2020
+```
+*Community hero status*
+
+</td>
+<td align="center">
+
+🚀 **DEPLOYMENT NINJA**
+```
+git push origin main
+✅ Pipeline passed
+```
+*Zero downtime master*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💬 Terminal Session
+
+<div align="">
+
+### 🖥️ **Live from Vijeta's Workspace**
+
+```bash
+vijeta@dev-machine:~$ whoami
+Passionate developer, creative problem solver, coffee enthusiast
+
+vijeta@dev-machine:~$ ls current_projects/
+├── ai-powered-design-tool/     # 🤖 Teaching AI to be creative
+├── iot-smart-home-system/      # 🏠 Making life easier
+├── react-component-library/    # ⚛️ Reusable UI magic
+├── prompt-engineering-guide/   # 📚 Sharing AI knowledge
+└── coffee-tracker-app/         # ☕ Essential daily tool
+
+vijeta@dev-machine:~$ cat daily_routine.txt
+10:00 ☕ Coffee ritual begins (don't judge)
+11:00 📧 Check issues & PRs with second coffee
+12:00 💻 Deep focus coding session starts
+15:00 🍕 Late lunch & tech podcasts
+16:00 🎨 UI/UX design time (creative peak)
+19:00 🍽️ Dinner break & social media
+20:00 🤖 AI experiments & learning
+22:00 🏠 IoT device tinkering (when it's quiet)
+01:00 📖 Reading tech blogs & documentation
+02:00 💻 Most productive coding hours begin
+03:00 🧠 Best ideas happen now (always!)
+04:00 💤 Finally convince myself to sleep...
+
+vijeta@dev-machine:~$ git log --oneline | head -5
+a1b2c3d feat: add AI-powered code suggestions ✨
+e4f5g6h fix: responsive design on mobile devices 📱
+i7j8k9l docs: update README with latest projects 📚
+m0n1o2p refactor: optimize database queries 🚀
+q3r4s5t style: implement dark mode theme 🌙
+
+vijeta@dev-machine:~$ npm run motivation
+🌟 "Code is poetry, bugs are just creative punctuation!"
+💡 Remember: Every expert was once a beginner
+🚀 Today's impossible is tomorrow's possible
+
+vijeta@dev-machine:~$ fortune | lolcat
+✨ "The best way to predict the future is to invent it." - Alan Kay ✨
+
+vijeta@dev-machine:~$ echo "Thanks for visiting! 👋"
+Thanks for visiting! 👋
+
+vijeta@dev-machine:~$ █
+```
+
+</div>
+
+---
+
+## 🎪 Interactive Dev Dashboard
+
+<div align="center">
+
+### 📊 **Real-Time Developer Metrics**
+
+<table>
+<tr>
+<td align="" width="33%">
+
+**⚡ Current Status**
+```yaml
+Mode: 🌙 Night Owl Mode
+Focus: 🤖 AI Integration
+Energy: ☕☕☕☕ (Peak at 2 AM)
+Bug Count: 0 (We don't talk about bugs)
+Motivation: 📈 Over 9000!
+Sleep Schedule: What's that? 😴
+```
+
+</td>
+<td align="" width="33%">
+
+**🎯 Today's Goals**
+```diff
++ ✅ Build awesome features
++ ✅ Help fellow developers  
++ ✅ Learn something new
++ ⏳ Perfect CSS animations
++ ⏳ Document everything
++ ⏳ Sleep before 4 AM
++ ❌ Wake up before 10 AM
+```
+
+</td>
+<td align="" width="33%">
+
+**🔥 Streak Counters**
+```
+☕ Coffee Days: 2,847
+💻 Coding Days: 1,825  
+🎨 Design Days: 1,200
+🤝 Helping Others: 500+
+😴 Proper Sleep: 12
+🎯 Side Projects: 47
+```
+
+</td>
+</tr>
+</table>
+
+### 🎮 **Choose Your Question**
+
+<details align="left">
+<summary>🚀 <b>"What are you working on?"</b></summary>
+
+```yaml
+Current Projects:
+🤖 AI-Powered Design Assistant:
+   - Teaching AI to understand good UX
+   - Status: 70% complete, 90% exciting
+
+🏠 Smart Home IoT Platform:
+   - Making my house smarter than me
+   - Status: Works great until wifi dies
+
+⚛️ React Component Library:
+   - DRY principle taken seriously
+   - Status: More components than sense
+
+📚 Prompt Engineering Guide:
+   - Sharing AI conversation secrets
+   - Status: Teaching humans to talk to robots
+```
+
+</details>
+
+<details align="left">
+<summary >☕ <b>"How do you stay productive?"</b></summary>
+
+```bash
+# Vijeta's Night Owl Productivity Algorithm
+
+while (still_coding && time > "22:00") {
+    if (coffee_level < 50%) {
+        brew_coffee();
+        add_extra_shot(); // It's going to be a long night
+    }
+    
+    if (stuck_on_problem) {
+        explain_to_rubber_duck();
+        take_midnight_walk(); // Best debugging tool at 2 AM
+    }
+    
+    if (feeling_unmotivated) {
+        browse_github_repos();
+        get_inspired();
+        start_new_side_project(); // Dangerous but effective
+    }
+    
+    if (time > "01:00") {
+        enable_peak_performance_mode();
+        solve_impossible_problems();
+    }
+    
+    code_with_passion();
+    help_other_night_owl_developers();
+    learn_something_new();
+}
+```
+
+</details>
+
+<details align="left">
+<summary>🎨 <b>"What's your design philosophy?"</b></summary>
+
+```css
+.vijeta-design-principles {
+    accessibility: always-first;
+    user-experience: seamless;
+    aesthetics: clean-and-purposeful;
+    responsiveness: Web-first;
+    performance: lightning-fast;
+    innovation: constantly-evolving;
+}
+
+/* My design mantra */
+.perfect-design {
+    function: beautiful;
+    form: functional;
+    emotion: positive;
+    impact: meaningful;
+}
+
+/* Secret sauce */
+.design-process::before {
+    content: "Empathy + Creativity + Code = Magic ✨";
+}
+```
+
+</details>
+
+</div>
+
+---
+
+## 🎭 Personality Matrix
+
+<div align="center">
+
+### 🧬 **Developer DNA Analysis**
+
+```
+     🧬 PERSONALITY GENOME SEQUENCING COMPLETE 🧬
+╭─────────────────────────────────────────────────────╮
+│  CREATIVE CODER STRAND: ████████████████████ 100%  │
+│  PROBLEM SOLVER GENE:   ██████████████████░░  90%  │
+│  COFFEE DEPENDENCY:     ████████████████████  99%  │
+│  TEAM PLAYER TRAIT:     ███████████████████░  95%  │
+│  PERFECTIONIST ALLELE:  █████████████████░░░  85%  │
+│  HUMOR COMPATIBILITY:   ███████████████████░  92%  │
+│  LEARNING ADDICTION:    ████████████████████ 100%  │
+│  SLEEP RESISTANCE:      ███████████████░░░░░  75%  │
+╰─────────────────────────────────────────────────────╯
+
+RARE MUTATIONS DETECTED:
+🦉 Night owl coding powers (Legendary)
+🦄 Can debug CSS on first try (Ultra Rare)
+🧙‍♀️ Explains code in plain English (Legendary)
+🤖 Makes AI tools actually useful (Mythical)
+☕ Functions optimally on caffeine (Common)
+🌙 Peak performance after midnight (Rare)
+```
+
+</div>
+---
 
 ## 💡 Daily Dev Wisdom
 
@@ -366,31 +758,6 @@ const developer = new VijethaDeveloper();
 console.log(developer.getRandomWelcomeMessage());
 // Output: "✨ Thanks for stopping by my profile!"
 ```
-
-</div>
-
----
-
-## 🎯 Repository Highlights
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vj-vijeta&repo=your-best-repo&theme=react&hide_border=true" alt="Featured Repo" />
-<br><sub><b>🌟 Most Starred Project</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vj-vijeta&repo=latest-project&theme=react&hide_border=true" alt="Latest Project" />
-<br><sub><b>🚀 Latest Creation</b></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://github.com/vj-vijeta/Git-profile-generator" alt="Experimental" />
-<br><sub><b>🧪 Experimental Lab</b></sub>
-</td>
-</tr>
-</table>
 
 </div>
 
