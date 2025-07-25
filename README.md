@@ -332,7 +332,7 @@ But seriously, I'm just a human who talks to computers for a living and somehow 
 
 ```javascript
 // Welcome to my digital world! 🌍
-class VijethaDeveloper {
+class VijetaDeveloper {
     constructor() {
         this.name = "Vijeta";
         this.role = "Software Developer";
