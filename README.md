@@ -20,10 +20,24 @@ class Developer {
         this.name = "Vijeta";
         this.pronouns = "she/her";
         this.location = "Earth (mostly)";
-        this.currentRole = "Software Developer Intern @ Ei";
+        this.currentRole = "Digital Swiss Army Knife (Engineering Edition)";
         this.workingOn = "Making computers do my bidding";
         this.learning = "How to speak fluent AI";
-        this.askMeAbout = ["React", "Python", "Why CSS is actually magic", "IoT"];
+        this.askMeAbout = ["How I make magic happen with just a keyboard and caffeine",
+                            "Why I believe chaos is just unsorted creativity",
+                            "What it's like being the team's unofficial therapist and debugger",
+                            "The fine art of turning vague ideas into wild prototypes",
+                            "How I accidentally broke something… and then fixed everything",
+                            "Turning 'Wait, is this even possible?' into 'It’s already live'",
+                            "Wearing 5 hats and somehow still asking for a bigger one",
+                            "Building things that do things that help other things do things",
+                            "My side hustle as a pixel perfectionist and flow architect",
+                            "Conversations I’ve had with my rubber duck",
+                            "Why my bookmarks are just organized panic",
+                            "Fixing things I didn’t break… probably",
+                            "Living in the intersection of creativity, chaos, and caffeine",
+                            "Why the commit message says 'final-final-REAL-final'",
+                          ];
         this.funFact = "I debug with console.log() and I'm not ashamed";
     }
     
@@ -310,32 +324,47 @@ But seriously, I'm just a human who talks to computers for a living and somehow 
 
 ---
 
-## 🎮 Interactive Code Showcase
+## 🎮 Code Snapshot
 
 <div align="center">
 
-### 🌟 **Live Coding Animation**
+### 💻 **What My Code Looks Like**
 
-```diff
-+ class WelcomeVisitor {
-+     constructor(visitor) {
-+         this.visitor = visitor;
-+         this.impression = "building...";
-+     }
-+ 
-+     generateWelcome() {
-+         const messages = [
-+             "Thanks for stopping by! 🚀",
-+             "Hope you found something interesting! 💡", 
-+             "Let's build something amazing together! 🌟",
-+             "May your code compile on the first try! 🤞"
-+         ];
-+         return messages[Math.floor(Math.random() * messages.length)];
-+     }
-+ }
-+ 
-+ const you = new WelcomeVisitor("awesome_developer");
-+ console.log(you.generateWelcome());
+```javascript
+// Welcome to my digital world! 🌍
+class VijethaDeveloper {
+    constructor() {
+        this.name = "Vijeta";
+        this.role = "Software Developer";
+        this.location = "Building the future, one commit at a time";
+        this.currentlyWorking = "Making AI understand human creativity";
+        this.mission = "Code with purpose, design with heart";
+    }
+    
+    getRandomWelcomeMessage() {
+        const messages = [
+            "✨ Thanks for stopping by my profile!",
+            "🚀 Let's build something amazing together!",
+            "💡 Hope you found my projects interesting!",
+            "🌟 May your code be bug-free and your coffee strong!"
+        ];
+        // In a real app, this would be random :)
+        return messages[0]; 
+    }
+    
+    displayCurrentStatus() {
+        return {
+            coffee: "☕☕☕☕", // Always caffeinated
+            bugs: 0, // We don't acknowledge bugs here
+            mood: "Ready to innovate! 🎯",
+            nextGoal: "Master the art of explaining code to humans"
+        };
+    }
+}
+
+const developer = new VijethaDeveloper();
+console.log(developer.getRandomWelcomeMessage());
+// Output: "✨ Thanks for stopping by my profile!"
 ```
 
 </div>
@@ -415,33 +444,43 @@ Coffee Brewing       ███████████████████�
 
 ```mermaid
 flowchart TD
-    A[🌱 2020: First Steps] --> B[HTML & CSS Magic]
-    A --> C[Hello World Moment]
+    A[🌱 2018: Coding Genesis] --> B[Programming Fundamentals]
+    A --> C[First Lines of Code]
     
-    B --> D[🚀 2021: JavaScript Era]
+    B --> D[🎨 2019: Web Discovery]
     C --> D
-    D --> E[React Components Mastery]
-    D --> F[Interactive Web Apps]
+    D --> E[HTML & CSS Mastery]
+    D --> F[JavaScript Adventures Begin]
     
-    E --> G[💪 2022: Full-Stack Journey]
+    E --> G[📝 2020: Version Control Era]
     F --> G
-    G --> H[Backend APIs & Databases]
-    G --> I[UI/UX Design Integration]
+    G --> H[Git & GitHub Journey Starts]
+    G --> I[Collaborative Development]
     
-    H --> J[🎯 2023: Advanced Skills]
+    H --> J[🚀 2021: Framework Exploration]
     I --> J
-    J --> K[Cloud & DevOps]
-    J --> L[AI & Machine Learning]
+    J --> K[React Components & Libraries]
+    J --> L[Interactive Web Applications]
     
-    K --> M[🌟 2024: Innovation Phase]
+    K --> M[💪 2022: Full-Stack Evolution]
     L --> M
-    M --> N[Prompt Engineering]
-    M --> O[IoT Smart Solutions]
+    M --> N[Backend APIs & Databases]
+    M --> O[UI/UX Design Integration]
     
-    N --> P[🚀 2025: Future Goals]
+    N --> P[🎯 2023: Advanced Specialization]
     O --> P
-    P --> Q[Open Source Leadership]
-    P --> R[Technical Mentoring]
+    P --> Q[Cloud & DevOps Mastery]
+    P --> R[AI & Machine Learning]
+    
+    Q --> S[🌟 2024: Innovation Phase]
+    R --> S
+    S --> T[Prompt Engineering Excellence]
+    S --> U[IoT Smart Solutions]
+    
+    T --> V[🚀 2025: Leadership & Impact]
+    U --> V
+    V --> W[Open Source Contributions]
+    V --> X[Technical Mentoring & Growth]
     
     style A fill:#e1f5fe
     style D fill:#f3e5f5
@@ -449,41 +488,56 @@ flowchart TD
     style J fill:#fff3e0
     style M fill:#fce4ec
     style P fill:#f1f8e9
+    style S fill:#e0f2f1
+    style V fill:#fef7e0
 ```
 
 </div>
 
 ---
 
-## 🎲 Random Developer Facts Generator
+## 🎲 Developer Fact Collection
 
 <div align="center">
 
-<details>
-<summary>🎰 <b>Click to Generate a Random Fact About Me!</b></summary>
+<table>
+<tr>
+<td align="center" width="50%">
 
-```javascript
-const developerFacts = [
-    "🐛 I once fixed a bug by changing a variable name from 'data' to 'information'",
-    "☕ My coffee-to-code ratio is scientifically optimized at 1:15 (cups:commits)",
-    "🌙 My most productive coding happens when normal people are sleeping",
-    "🎨 I have strong opinions about whether buttons should have rounded corners",
-    "🔍 I can debug CSS for hours but somehow miss obvious syntax errors",
-    "📱 I build mobile apps that I use to control my IoT coffee maker",
-    "🤖 I taught an AI to generate dad jokes. It's my proudest achievement.",
-    "🎯 My GitHub green squares are more consistent than my sleep schedule",
-    "💡 I have 73 'quick' side projects that are definitely not quick",
-    "🌐 I optimize my code more than I optimize my life choices"
-];
-
-function getRandomFact() {
-    return developerFacts[Math.floor(Math.random() * developerFacts.length)];
-}
-
-// Click the summary above to 'execute' this function! 🎪
+**🤓 Coding Facts**
+```yaml
+Bug-to-Feature Ratio: "It's not a bug, it's a feature!"
+Favorite Debugging Tool: console.log() (don't judge)
+Best Code Time: 11 PM - 3 AM (night owl mode)
+Coffee Dependency: Critically high ☕☕☕☕
+IDE Theme: Dark mode only (light mode hurts)
 ```
 
-</details>
+</td>
+<td align="center" width="50%">
+
+**🎯 Life Facts**
+```yaml
+First Programming Language: Started with basics in 2018
+GitHub Journey: Began version control in 2020
+Superpower: Spotting missing semicolons from 3 screens away
+Spirit Animal: Rubber duck (debugging companion)
+Life Motto: "Code like a girl - we're brilliant at it!"
+```
+
+</td>
+</tr>
+</table>
+
+**🎪 Random Dev Moments:**
+- 🐛 Once spent 3 hours debugging, turns out caps lock was on
+- ☕ My coffee machine has better uptime than some servers I've managed  
+- 🌙 Written my best algorithms during 2 AM "shower thoughts"
+- 🎨 Have strong opinions about whether CSS should be considered a programming language
+- 🤖 Taught an AI to generate code comments funnier than mine
+- 📱 Built IoT devices that are smarter than my decision to stay up coding
+- 🎯 GitHub green squares are more consistent than my meal schedule
+- 💡 Maintain 47 "quick weekend projects" that are definitely not quick
 
 </div>
 
