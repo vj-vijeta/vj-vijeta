@@ -367,51 +367,88 @@ But seriously, I'm just a human who talks to computers for a living and somehow 
 
 ---
 
-## 🎨 Dynamic Skills Radar
+## 🎨 Skills Power-Up Chart
 
 <div align="center">
 
-```mermaid
-radar
-    title Skills Radar Chart
-    "Frontend Development" : 0.85
-    "Backend Architecture" : 0.75
-    "UI/UX Design" : 0.80
-    "DevOps & Cloud" : 0.70
-    "AI/ML Engineering" : 0.65
-    "Mobile Development" : 0.75
-    "Database Design" : 0.70
-    "Problem Solving" : 0.90
+<table>
+<tr><td align="center" width="50%">
+
+**🚀 Technical Skills**
+
+```text
+Frontend Development  ████████████████░░░░ 85%
+Backend Architecture  ███████████████░░░░░ 75%
+UI/UX Design         ████████████████░░░░ 80%
+DevOps & Cloud       ██████████████░░░░░░ 70%
+AI/ML Engineering    █████████████░░░░░░░ 65%
+Mobile Development   ███████████████░░░░░ 75%
+Database Design      ██████████████░░░░░░ 70%
+Problem Solving      ██████████████████░░ 90%
 ```
+
+</td><td align="center" width="50%">
+
+**⚡ Soft Skills**
+
+```text
+Team Collaboration   ████████████████░░░░ 85%
+Creative Thinking    ██████████████████░░ 90%
+Code Documentation   ████████████░░░░░░░░ 60%
+Public Speaking      ███████████░░░░░░░░░ 55%
+Mentoring           ██████████████░░░░░░ 70%
+Project Management   █████████████████░░░ 85%
+Learning Agility     ███████████████████░ 95%
+Coffee Brewing       ████████████████████ 100%
+```
+
+</td></tr>
+</table>
 
 </div>
 
 ---
 
-## 🏃‍♀️ Coding Journey Timeline
+## 🏃‍♀️ Coding Journey Evolution
 
 <div align="center">
 
 ```mermaid
-timeline
-    title My Coding Evolution
-    section 🌱 Beginner
-        2020 : HTML & CSS Magic
-             : First "Hello World" moment
-    section 🚀 Growth
-        2021 : JavaScript Adventures
-             : React Components Mastery
-        2022 : Backend Explorations
-             : Database Relationships
-    section 💪 Advanced
-        2023 : Full-Stack Projects
-             : UI/UX Design Integration
-        2024 : AI & Prompt Engineering
-             : IoT Smart Solutions
-    section 🎯 Future
-        2025 : Open Source Contributions
-             : Technical Leadership
-             : Innovation & Mentoring
+flowchart TD
+    A[🌱 2020: First Steps] --> B[HTML & CSS Magic]
+    A --> C[Hello World Moment]
+    
+    B --> D[🚀 2021: JavaScript Era]
+    C --> D
+    D --> E[React Components Mastery]
+    D --> F[Interactive Web Apps]
+    
+    E --> G[💪 2022: Full-Stack Journey]
+    F --> G
+    G --> H[Backend APIs & Databases]
+    G --> I[UI/UX Design Integration]
+    
+    H --> J[🎯 2023: Advanced Skills]
+    I --> J
+    J --> K[Cloud & DevOps]
+    J --> L[AI & Machine Learning]
+    
+    K --> M[🌟 2024: Innovation Phase]
+    L --> M
+    M --> N[Prompt Engineering]
+    M --> O[IoT Smart Solutions]
+    
+    N --> P[🚀 2025: Future Goals]
+    O --> P
+    P --> Q[Open Source Leadership]
+    P --> R[Technical Mentoring]
+    
+    style A fill:#e1f5fe
+    style D fill:#f3e5f5
+    style G fill:#e8f5e8
+    style J fill:#fff3e0
+    style M fill:#fce4ec
+    style P fill:#f1f8e9
 ```
 
 </div>
